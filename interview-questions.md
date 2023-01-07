@@ -14,7 +14,7 @@ Researched answer:
 
 1. What is the difference between a Float and an Integer in Ruby?
 
-Your answer:
+Your answer: Although both are numbers and they are both data types in Ruby, a float and an integer in Ruby are similiar, but different at the same time. Integers are whole numbers without a decimal point, whereas floats are the opposite; numbers with decimal points, or partial numbers.
 
 Researched answer:
 
@@ -42,7 +42,7 @@ Researched answer:
 
 2. RSpec:
 
-3. CRUD:
+3. CRUD: CRUD stands for Create, Read, Update and Delete. Referred to the developer's philosophy, it is four basic functions 
 
 4. Test-driven development:
 
